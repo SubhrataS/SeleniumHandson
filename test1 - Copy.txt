@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 941D-C3DC
+
+ Directory of D:\My Git
+
+29-12-2021  19:14    <DIR>          .
+29-12-2021  19:14    <DIR>          ..
+29-12-2021  19:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  995,058,057,216 bytes free
